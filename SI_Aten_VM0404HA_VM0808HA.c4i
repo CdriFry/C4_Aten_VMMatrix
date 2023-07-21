@@ -1,0 +1,1500 @@
+<devicedata>
+  <version>24</version>
+  <config>
+    <power_command_delay>0</power_command_delay>
+    <power_delay>0</power_delay>
+    <power_management_method>AlwaysOn</power_management_method>
+    <serialsettings>19200 8 none 1 none</serialsettings>
+    <serialsection>
+      <serialcodes>
+        <serialcode verified="False">
+          <id>103</id>
+          <name>Power Toggle</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1000</id>
+          <name>SO1I1</name>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1001</id>
+          <name>SO1I2</name>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1002</id>
+          <name>SO1I3</name>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1003</id>
+          <name>SO1I4</name>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1004</id>
+          <name>SO1I5</name>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1005</id>
+          <name>SO1I6</name>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1006</id>
+          <name>SO1I7</name>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1007</id>
+          <name>SO1I8</name>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1008</id>
+          <name>SO2I1</name>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1009</id>
+          <name>SO2I2</name>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1010</id>
+          <name>SO2I3</name>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1011</id>
+          <name>SO2I4</name>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1012</id>
+          <name>SO2I5</name>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1013</id>
+          <name>SO2I6</name>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1014</id>
+          <name>SO2I7</name>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1015</id>
+          <name>SO2I8</name>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 38 0d 0av</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1016</id>
+          <name>SO3I1</name>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1017</id>
+          <name>SO3I2</name>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1018</id>
+          <name>SO3I3</name>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1019</id>
+          <name>SO3I4</name>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1020</id>
+          <name>SO3I5</name>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1021</id>
+          <name>SO3I6</name>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1022</id>
+          <name>SO3I7</name>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1023</id>
+          <name>SO3I8</name>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1024</id>
+          <name>SO4I1</name>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1025</id>
+          <name>SO4I2</name>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1026</id>
+          <name>SO4I3</name>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1027</id>
+          <name>SO4I4</name>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1028</id>
+          <name>SO4I5</name>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1029</id>
+          <name>SO4I6</name>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1030</id>
+          <name>SO4I7</name>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1031</id>
+          <name>SO4I8</name>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1032</id>
+          <name>SO5I1</name>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1033</id>
+          <name>SO5I2</name>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1034</id>
+          <name>SO5I3</name>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1035</id>
+          <name>SO5I4</name>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1036</id>
+          <name>SO5I5</name>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1037</id>
+          <name>SO5I6</name>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1038</id>
+          <name>SO5I7</name>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1039</id>
+          <name>SO5I8</name>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1040</id>
+          <name>SO6I1</name>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1041</id>
+          <name>SO6I2</name>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1042</id>
+          <name>SO6I3</name>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1043</id>
+          <name>SO6I4</name>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1044</id>
+          <name>SO6I5</name>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1045</id>
+          <name>SO6I6</name>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1046</id>
+          <name>SO6I7</name>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1047</id>
+          <name>SO6I8</name>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1048</id>
+          <name>SO7I1</name>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1049</id>
+          <name>SO7I2</name>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1050</id>
+          <name>SO7I3</name>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1051</id>
+          <name>SO7I4</name>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1052</id>
+          <name>SO7I5</name>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1053</id>
+          <name>SO7I6</name>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1054</id>
+          <name>SO7I7</name>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1055</id>
+          <name>SO7I8</name>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1056</id>
+          <name>SO8I1</name>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1057</id>
+          <name>SO8I2</name>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1058</id>
+          <name>SO8I3</name>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1058</id>
+          <name>SO8I4</name>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1059</id>
+          <name>SO8I5</name>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1060</id>
+          <name>SO8I6</name>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1061</id>
+          <name>SO8I7</name>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>1062</id>
+          <name>SO8I8</name>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcode>
+      </serialcodes>
+      <serialcodemacros>
+      <serialcodemacro verified="False" id="0">
+          <commandname>CONNECT_OUTPUT_0</commandname>
+          <displayname>Connect output OUT4</displayname>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>CONNECT_OUTPUT_1</commandname>
+          <displayname>Connect output OUT1</displayname>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>CONNECT_OUTPUT_2</commandname>
+          <displayname>Connect output OUT2</displayname>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>CONNECT_OUTPUT_3</commandname>
+          <displayname>Connect output OUT3</displayname>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>DISCONNECT_OUTPUT_0</commandname>
+          <displayname>Disconnect output OUT4</displayname>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>DISCONNECT_OUTPUT_1</commandname>
+          <displayname>Disconnect output OUT1</displayname>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>DISCONNECT_OUTPUT_2</commandname>
+          <displayname>Disconnect output OUT2</displayname>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>DISCONNECT_OUTPUT_3</commandname>
+          <displayname>Disconnect output OUT3</displayname>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_0_0</commandname>
+          <displayname>Switch output OUT1 to input IN1</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_0_1</commandname>
+          <displayname>Switch output OUT1 to input IN2</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_0_2</commandname>
+          <displayname>Switch output OUT1 to input IN3</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_0_3</commandname>
+          <displayname>Switch output OUT1 to input IN4</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_0_4</commandname>
+          <displayname>Switch output OUT1 to input IN5</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_0_5</commandname>
+          <displayname>Switch output OUT1 to input IN6</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_0_6</commandname>
+          <displayname>Switch output OUT1 to input IN7</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_0_7</commandname>
+          <displayname>Switch output OUT1 to input IN7</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 49 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 31 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_1_0</commandname>
+          <displayname>Switch output OUT2 to input IN1</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_1_1</commandname>
+          <displayname>Switch output OUT2 to input IN2</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_1_2</commandname>
+          <displayname>Switch output OUT2 to input IN3</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_1_3</commandname>
+          <displayname>Switch output OUT2 to input IN4</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_1_4</commandname>
+          <displayname>Switch output OUT2 to input IN5</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_1_5</commandname>
+          <displayname>Switch output OUT2 to input IN6</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_1_6</commandname>
+          <displayname>Switch output OUT2 to input IN7</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_1_7</commandname>
+          <displayname>Switch output OUT2 to input IN8</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 50 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 32 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_2_0</commandname>
+          <displayname>Switch output OUT3 to input IN1</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_2_1</commandname>
+          <displayname>Switch output OUT3 to input IN2</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_2_2</commandname>
+          <displayname>Switch output OUT3 to input IN3</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_2_3</commandname>
+          <displayname>Switch output OUT3 to input IN4</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_2_4</commandname>
+          <displayname>Switch output OUT3 to input IN5</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_2_5</commandname>
+          <displayname>Switch output OUT3 to input IN6</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_2_6</commandname>
+          <displayname>Switch output OUT3 to input IN7</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_2_7</commandname>
+          <displayname>Switch output OUT3 to input IN8</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 51 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 33 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_3_0</commandname>
+          <displayname>Switch output OUT4 to input IN1</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_3_1</commandname>
+          <displayname>Switch output OUT4 to input IN2</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_3_2</commandname>
+          <displayname>Switch output OUT4 to input IN3</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_3_3</commandname>
+          <displayname>Switch output OUT4 to input IN4</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_3_4</commandname>
+          <displayname>Switch output OUT4 to input IN5</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_3_5</commandname>
+          <displayname>Switch output OUT4 to input IN6</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_3_6</commandname>
+          <displayname>Switch output OUT4 to input IN7</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_3_7</commandname>
+          <displayname>Switch output OUT4 to input IN8</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 52 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 34 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_4_0</commandname>
+          <displayname>Switch output OUT5 to input IN1</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_4_1</commandname>
+          <displayname>Switch output OUT5 to input IN2</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_4_2</commandname>
+          <displayname>Switch output OUT5 to input IN3</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_4_3</commandname>
+          <displayname>Switch output OUT5 to input IN4</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_4_4</commandname>
+          <displayname>Switch output OUT5 to input IN5</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_4_5</commandname>
+          <displayname>Switch output OUT5 to input IN6</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_4_6</commandname>
+          <displayname>Switch output OUT5 to input IN7</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_4_7</commandname>
+          <displayname>Switch output OUT5 to input IN8</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 53 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 35 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_5_0</commandname>
+          <displayname>Switch output OUT6 to input IN1</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_5_1</commandname>
+          <displayname>Switch output OUT6 to input IN2</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_5_2</commandname>
+          <displayname>Switch output OUT6 to input IN3</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_5_3</commandname>
+          <displayname>Switch output OUT6 to input IN4</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_5_4</commandname>
+          <displayname>Switch output OUT6 to input IN5</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_5_5</commandname>
+          <displayname>Switch output OUT6 to input IN6</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_5_6</commandname>
+          <displayname>Switch output OUT6 to input IN7</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_5_7</commandname>
+          <displayname>Switch output OUT6 to input IN8</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 54 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 36 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_6_0</commandname>
+          <displayname>Switch output OUT7 to input IN1</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_6_1</commandname>
+          <displayname>Switch output OUT7 to input IN2</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_6_2</commandname>
+          <displayname>Switch output OUT7 to input IN3</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_6_3</commandname>
+          <displayname>Switch output OUT7 to input IN4</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_6_4</commandname>
+          <displayname>Switch output OUT7 to input IN5</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_6_5</commandname>
+          <displayname>Switch output OUT7 to input IN6</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_6_6</commandname>
+          <displayname>Switch output OUT7 to input IN7</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_6_7</commandname>
+          <displayname>Switch output OUT7 to input IN8</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 55 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 37 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_7_0</commandname>
+          <displayname>Switch output OUT8 to input IN1</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 49 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 31 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_7_1</commandname>
+          <displayname>Switch output OUT8 to input IN2</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 50 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 32 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_7_2</commandname>
+          <displayname>Switch output OUT8 to input IN3</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 51 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 33 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_7_3</commandname>
+          <displayname>Switch output OUT8 to input IN4</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 52 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 34 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_7_4</commandname>
+          <displayname>Switch output OUT8 to input IN5</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 53 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 35 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_7_5</commandname>
+          <displayname>Switch output OUT8 to input IN6</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 54 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 36 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_7_6</commandname>
+          <displayname>Switch output OUT8 to input IN7</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 55 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 37 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_OUTPUT_INPUT_7_7</commandname>
+          <displayname>Switch output OUT8 to input IN8</displayname>
+          <serialdata>
+            <original>115 119 32 111 48 56 32 105 48 56 13 10</original>
+            <data>73 77 20 6f 30 38 20 69 30 38 0d 0a</data>
+          </serialdata>
+        </serialcodemacro>
+
+        
+      </serialcodemacros>
+    </serialsection>
+  </config>
+  <name>Aten VM0404HA/VM0808HA (OS 3.3.0+)</name>
+  <small />
+  <large />
+  <control>av_gen</control>
+  <controlmethod>serial</controlmethod>
+  <proxies>
+    <proxy proxybindingid="5001">avswitch</proxy>
+  </proxies>
+  <driver>100050</driver>
+  <manufacturer>Soundimage</manufacturer>
+  <created>01/25/2023 10:49:09 PM</created>
+  <modified>01/27/2023 1:07:41 AM</modified>
+  <copyright>Copyright 2023 Soundimage.  All rights reserved.</copyright>
+  <creator>cedric@soundimage.be</creator>
+  <model>VM0404HA/VM0808HA</model>
+  <documentation file="documentation.rtf" />
+  <search_type>c4:av_gen</search_type>
+  <states />
+  <connections>
+    <connection>
+      <id>1000</id>
+      <type>5</type>
+      <connectionname>IN1</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1001</id>
+      <type>5</type>
+      <connectionname>IN2</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1002</id>
+      <type>5</type>
+      <connectionname>IN3</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1003</id>
+      <type>5</type>
+      <connectionname>IN4</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1004</id>
+      <type>5</type>
+      <connectionname>IN5</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1005</id>
+      <type>5</type>
+      <connectionname>IN6</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1006</id>
+      <type>5</type>
+      <connectionname>IN7</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1007</id>
+      <type>5</type>
+      <connectionname>IN8</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>2000</id>
+      <type>5</type>
+      <connectionname>OUT1</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>2001</id>
+      <type>5</type>
+      <connectionname>OUT2</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>2002</id>
+      <type>5</type>
+      <connectionname>OUT3</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>2003</id>
+      <type>5</type>
+      <connectionname>OUT4</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>2004</id>
+      <type>5</type>
+      <connectionname>OUT5</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>2005</id>
+      <type>5</type>
+      <connectionname>OUT6</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>2006</id>
+      <type>5</type>
+      <connectionname>OUT7</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>2007</id>
+      <type>5</type>
+      <connectionname>OUT8</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>7000</id>
+      <type>7</type>
+      <connectionname>OUT1 Video End-Point</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>VIDEO_SELECTION</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>7001</id>
+      <type>7</type>
+      <connectionname>OUT2 Video End-Point</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>VIDEO_SELECTION</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>7002</id>
+      <type>7</type>
+      <connectionname>OUT3 Video End-Point</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>VIDEO_SELECTION</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>7003</id>
+      <type>7</type>
+      <connectionname>OUT4 Video End-Point</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>VIDEO_SELECTION</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>7004</id>
+      <type>7</type>
+      <connectionname>OUT5 Video End-Point</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>VIDEO_SELECTION</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>7005</id>
+      <type>7</type>
+      <connectionname>OUT6 Video End-Point</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>VIDEO_SELECTION</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>7006</id>
+      <type>7</type>
+      <connectionname>OUT7 Video End-Point</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>VIDEO_SELECTION</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>7007</id>
+      <type>7</type>
+      <connectionname>OUT8 Video End-Point</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>VIDEO_SELECTION</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1</id>
+      <type>1</type>
+      <connectionname>Serial RS-232</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>RS_232</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>5001</id>
+      <type>2</type>
+      <connectionname>AV Switch</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>AVSWITCH</classname>
+        </class>
+      </classes>
+    </connection>
+  </connections>
+  <capabilities>
+    <audio_consumer_count>0</audio_consumer_count>
+    <audio_provider_count>0</audio_provider_count>
+    <can_downclass>True</can_downclass>
+    <can_upclass>True</can_upclass>
+    <has_audio>False</has_audio>
+    <has_audio_signal_sense>True</has_audio_signal_sense>
+    <has_discrete_input_select>True</has_discrete_input_select>
+    <has_toad_input_select>False</has_toad_input_select>
+    <has_video_signal_sense>True</has_video_signal_sense>
+    <video_consumer_count>8</video_consumer_count>
+    <video_provider_count>8</video_provider_count>
+  </capabilities>
+  <commands />
+  <conditionals />
+  <events />
+</devicedata>
