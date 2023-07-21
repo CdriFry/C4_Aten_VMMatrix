@@ -22,4 +22,9 @@ If you encounter problems, double click on the name of the driver and you can ma
 
 
 
+---
+
+Please, this driver is given for sharing purposes, it is given as is. It can be installed and used at will
+
+
 
