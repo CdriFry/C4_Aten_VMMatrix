@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./images/Aten.PNG" alt="Aten Logo" width="200"/>
+  <img src="./images/Aten.png" alt="Aten Logo" width="200"/>
   <img src="./images/Soundimage.tiff" alt="Soundimage" width="200"/>
-  <img src="./images/Control4.PNG" alt="Control4" width="200"/>
+  <img src="./images/Control4.png" alt="Control4" width="200"/>
 </p>
 
 ---
